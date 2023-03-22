@@ -5,8 +5,7 @@ module.exports ={
 }
 const commands =[
     {
-        name: 'hey',
-        description:'replies with hey!',
+      
        
     }
 ];
